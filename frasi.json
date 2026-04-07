@@ -31,6 +31,7 @@
   { "testo": "A Carnevale ogni scherzo vale, ma sotto le coperte l'esperienza è spaziale.", "rarita": "EPICO", "peso": 15 },
   { "testo": "A Ferragosto il caldo è tosto, ma nel mio letto c'è sempre un posto.", "rarita": "EPICO", "peso": 15 },
   { "testo": "A San Valentino niente cioccolatino, voglio solo far colazione sul tuo cuscino.", "rarita": "EPICO", "peso": 15 },
+  { "testo": "Al mio compleanno niente torta e candeline, voglio solo scartare le tue mutandine.", "rarita": "EPICO", "peso": 15},
   
   { "testo": "Sei i miei compiti? Perché ti prenderei e ti sbatterei sul tavolo tutta la notte.", "rarita": "LEGGENDARIO", "peso": 5 },
   { "testo": "Per caso sei una vape? Perché non ti userò mai.", "rarita": "LEGGENDARIO", "peso": 5 },
