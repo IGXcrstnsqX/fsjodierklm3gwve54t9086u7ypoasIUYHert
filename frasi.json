@@ -6,17 +6,24 @@
     { "testo": "Hai una matita? Perché vorrei iniziare a scriverti nel mio futuro.", "rarita": "COMUNE", "peso": 100 },
     { "testo": "Sai qual è la differenza tra te e la storia? La storia è passata, tu sei il mio futuro.", "rarita": "COMUNE", "peso": 100 },
     { "testo": "Scusa hai ago e file? Perché vorrei attaccare bottone.", "rarita": "COMUNE", "peso": 100 },
+    { "testo": "Sei un caricabatterie? Perché senza di te mi sento all'1%.", "rarita": "COMUNE", "peso": 100 },
+    
+    
     { "testo": "Ma sei straniera? Perché sei mezza italiana e mezza mia.", "rarita": "VERDE", "peso": 70 },
     { "testo": "Sai cosa c'è sul menu? Me e Te.", "rarita": "VERDE", "peso": 70 },
     { "testo": "La matematica è sempre così confusionante, è sempre X ed Y ma mai io e te.", "rarita": "VERDE", "peso": 70 },
     { "testo": "Ma tu sei le scale della scuola? Perché mi togli il respiro.", "rarita": "VERDE", "peso": 70 },
     { "testo": "Io esco, Tu esci, Egli esce, Noi?", "rarita": "VERDE", "peso": 70 },
+    { "testo": "Scusa, hai un cerotto? Mi sono sbucciato le ginocchia cadendo per te.", "rarita": "VERDE", "peso": 70 },
+    
     { "testo": "Per caso sei del trucco? Perché spenderei ore a farti.", "rarita": "BLU", "peso": 40 },
     { "testo": "Per caso sei dei soldi? Perché ho bisogno di te più di qualunque altra cosa.", "rarita": "BLU", "peso": 40 },
     { "testo": "Per caso sei russa? No perché mi hai invaso il cuore.", "rarita": "BLU", "peso": 40 },
     { "testo": "Ti piace l'acqua? Il mio corpo è fatto dal 75% di acqua quindi ti piaccio insomma.", "rarita": "BLU", "peso": 40 },
     { "testo": "Non posso far diventare l'acqua vino, però posso farti diventar mia.", "rarita": "BLU", "peso": 40 },
     { "testo": "Ma per caso sei delle voci? Perché non riesco a farti uscire dalla mia testa.", "rarita": "BLU", "peso": 40 },
+    { "testo": "L'algoritmo mi dice che sei il mio tipo, ma vorrei la conferma.", "rarita": "BLU", "peso": 40 },
+    
     { "testo": "Hai un vestito stupendo, ma penso che il pavimento della mia camera gli donerebbe di più.", "rarita": "EPICO", "peso": 15 },
     { "testo": "Il mio letto è rotto, posso venire a testare la resistenza del tuo?", "rarita": "EPICO", "peso": 15 },
     { "testo": "Non sono un idraulico, ma potrei venire a controllare la tua pressione stasera.", "rarita": "EPICO", "peso": 15 },
@@ -30,6 +37,7 @@
     { "testo": "A Ferragosto il caldo è tosto, ma nel mio letto c'è sempre un posto.", "rarita": "EPICO", "peso": 15 },
     { "testo": "A San Valentino niente cioccolatino, voglio solo far colazione sul tuo cuscino.", "rarita": "EPICO", "peso": 15 },
     { "testo": "Al mio compleanno niente torta e candeline, voglio solo scartare le tue mutandine.", "rarita": "EPICO", "peso": 15 },
+    
     { "testo": "Sei i miei compiti? Perché ti prenderei e ti sbatterei sul tavolo tutta la notte.", "rarita": "LEGGENDARIO", "peso": 5 },
     { "testo": "Per caso sei una vape? Perché non ti userò mai.", "rarita": "LEGGENDARIO", "peso": 5 },
     { "testo": "Per caso sei la cintura di mio padre? Perché tu hitti differente.", "rarita": "LEGGENDARIO", "peso": 5 },
@@ -37,6 +45,7 @@
     { "testo": "Scotti come Jerry.", "rarita": "LEGGENDARIO", "peso": 5 },
     { "testo": "Per caso sei un bus? Perché ti vorrei riempire di bambini.", "rarita": "LEGGENDARIO", "peso": 5 },
     { "testo": "A pasquetta me la mostri la tetta?", "rarita": "LEGGENDARIO", "peso": 5 },
+    
     { "testo": "Mi chiamo Cristian, ma tu puoi chiamarmi quando non c'è nessuno a casa.", "rarita": "MITICO", "peso": 1 },
     { "testo": "Tu sei la ragazza di Cristian? No perche ora si, piacere.", "rarita": "MITICO", "peso": 1 },
     { "testo": "Supercell ID?", "rarita": "MITICO", "peso": 1 },
