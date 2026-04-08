@@ -42,9 +42,5 @@
     { "testo": "Supercell ID?", "rarita": "MITICO", "peso": 1 },
     { "testo": "Se ti capita questa frase il destino ci ha legato, scrivi in dm", "rarita": "MITICO", "peso": 1 },
     { "testo": "He bella hosa he hai detto... (se leggi questo messaggio scrivimi su ig).", "rarita": "MITICO", "peso": 1 }
-  ],
-  "codici_segreti": {
-    "975379ef4b8b50303cab89214c610e80e94a47b144bcb01538de93b7a7ffc617": 20,
-    "a852e217322e603aa174a103f7377e125a89394891bb4ed2242ae3585dbf37f5": 10
-  }
+  ]
 }
