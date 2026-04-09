@@ -7,6 +7,9 @@
     { "testo": "Sai qual è la differenza tra te e la storia? La storia è passata, tu sei il mio futuro.", "rarita": "COMUNE", "peso": 100 },
     { "testo": "Scusa hai ago e file? Perché vorrei attaccare bottone.", "rarita": "COMUNE", "peso": 100 },
     { "testo": "Sei un caricabatterie? Perché senza di te mi sento all'1%.", "rarita": "COMUNE", "peso": 100 },
+    { "testo": "Per caso sei una droga? Perché sei stupefacente.", "rarita": "COMUNE", "peso": 100 },
+    { "testo": "Hai una mappa? Perché mi sono perso nei tuoi occhi.", "rarita": "COMUNE", "peso": 100 },
+    { "testo": "Sei per caso la figlia di un mago? Perché mi hai incantato.", "rarita": "COMUNE", "peso": 100 },
     
     { "testo": "Ma sei straniera? Perché sei mezza italiana e mezza mia.", "rarita": "VERDE", "peso": 70 },
     { "testo": "Sai cosa c'è sul menu? Me e Te.", "rarita": "VERDE", "peso": 70 },
@@ -14,6 +17,7 @@
     { "testo": "Ma tu sei le scale della scuola? Perché mi togli il respiro.", "rarita": "VERDE", "peso": 70 },
     { "testo": "Io esco, Tu esci, Egli esce, Noi?", "rarita": "VERDE", "peso": 70 },
     { "testo": "Scusa, hai un cerotto? Mi sono sbucciato le ginocchia cadendo per te.", "rarita": "VERDE", "peso": 70 },
+    { "testo": "Per caso sei nata il 27 luglio? Perché ti penso 24/7.", "rarita": "VERDE", "peso": 70},
     
     { "testo": "Per caso sei del trucco? Perché spenderei ore a farti.", "rarita": "BLU", "peso": 40 },
     { "testo": "Per caso sei dei soldi? Perché ho bisogno di te più di qualunque altra cosa.", "rarita": "BLU", "peso": 40 },
@@ -22,6 +26,8 @@
     { "testo": "Non posso far diventare l'acqua vino, però posso farti diventar mia.", "rarita": "BLU", "peso": 40 },
     { "testo": "Ma per caso sei delle voci? Perché non riesco a farti uscire dalla mia testa.", "rarita": "BLU", "peso": 40 },
     { "testo": "L'algoritmo mi dice che sei il mio tipo, ma vorrei la conferma.", "rarita": "BLU", "peso": 40 },
+    { "testo": "Tu guardi i film di supereroi? Perché posso essere Batman ma anche Yourman.", "rarita": "BLU", "peso": 40 },
+    { "testo": "Per caso sei un investimento a lungo termine? Perché stai generando un sacco di interesse in me.", "rarita": "BLU", "peso": 40 },
     
     { "testo": "Hai un vestito stupendo, ma penso che il pavimento della mia camera gli donerebbe di più.", "rarita": "EPICO", "peso": 15 },
     { "testo": "Il mio letto è rotto, posso venire a testare la resistenza del tuo?", "rarita": "EPICO", "peso": 15 },
@@ -44,11 +50,13 @@
     { "testo": "Scotti come Jerry.", "rarita": "LEGGENDARIO", "peso": 5 },
     { "testo": "Per caso sei un bus? Perché ti vorrei riempire di bambini.", "rarita": "LEGGENDARIO", "peso": 5 },
     { "testo": "A pasquetta me la mostri la tetta?", "rarita": "LEGGENDARIO", "peso": 5 },
+    { "testo": "Sei per caso di Napoli? Perché mi hai rubato il cuore.", "rarita": "LEGGENDARIO", "peso": 5 },
     
     { "testo": "Mi chiamo Cristian, ma tu puoi chiamarmi quando non c'è nessuno a casa.", "rarita": "MITICO", "peso": 1 },
     { "testo": "Tu sei la ragazza di Cristian? No perche ora si, piacere.", "rarita": "MITICO", "peso": 1 },
     { "testo": "Supercell ID?", "rarita": "MITICO", "peso": 1 },
     { "testo": "Se ti capita questa frase il destino ci ha legato, scrivi in dm", "rarita": "MITICO", "peso": 1 },
-    { "testo": "He bella hosa he hai detto... (se leggi questo messaggio scrivimi su ig).", "rarita": "MITICO", "peso": 1 }
+    { "testo": "He bella hosa he hai detto... (se leggi questo messaggio scrivimi su ig).", "rarita": "MITICO", "peso": 1 },
+    { "testo": "Per caso sei una maglia da calcio? Perché vorrei il tuo nome e il tuo numero.", "rarita": "MITICO", "peso": 1 }
   ]
 }
