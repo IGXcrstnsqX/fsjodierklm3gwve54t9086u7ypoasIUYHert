@@ -18,6 +18,7 @@
     { "testo": "Io esco, Tu esci, Egli esce, Noi?", "rarita": "VERDE", "peso": 70 },
     { "testo": "Scusa, hai un cerotto? Mi sono sbucciato le ginocchia cadendo per te.", "rarita": "VERDE", "peso": 70 },
     { "testo": "Per caso sei nata il 27 luglio? Perché ti penso 24/7.", "rarita": "VERDE", "peso": 70},
+    { "testo": "Per caso sei un forno? Perché sei calda.", "rarita": "VERDE", "peso": 70 },
     
     { "testo": "Per caso sei del trucco? Perché spenderei ore a farti.", "rarita": "BLU", "peso": 40 },
     { "testo": "Per caso sei dei soldi? Perché ho bisogno di te più di qualunque altra cosa.", "rarita": "BLU", "peso": 40 },
@@ -32,7 +33,6 @@
     { "testo": "Hai un vestito stupendo, ma penso che il pavimento della mia camera gli donerebbe di più.", "rarita": "EPICO", "peso": 15 },
     { "testo": "Il mio letto è rotto, posso venire a testare la resistenza del tuo?", "rarita": "EPICO", "peso": 15 },
     { "testo": "Non sono un idraulico, ma potrei venire a controllare la tua pressione stasera.", "rarita": "EPICO", "peso": 15 },
-    { "testo": "Per caso sei un forno? Perché sei calda.", "rarita": "EPICO", "peso": 15 },
     { "testo": "Per te aprile è un mese o un verbo?", "rarita": "EPICO", "peso": 15 },
     { "testo": "A Natale siamo tutti più buoni, ma stasera aiutami a togliere i pantaloni.", "rarita": "EPICO", "peso": 15 },
     { "testo": "A Capodanno si fa il botto, ma io preferisco averti di sotto.", "rarita": "EPICO", "peso": 15 },
